@@ -72,3 +72,17 @@ triple underscore
   def add(num1, num2):
     return num1 + num2
 ```
+
+```kotlin
+  class Animal(name: String)
+  main(){
+    val animal = Animal("cat")
+    println("animal ${animal.name}")
+  }
+```
+
+<!-- Tables -->
+| Name | Email |
+| ---   | --- |
+| John | john@gmail.com |
+| John | john@gmail.com |
