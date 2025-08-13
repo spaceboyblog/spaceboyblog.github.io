@@ -473,6 +473,7 @@ myblog나 my-awesome-site를 만들었다면,
 여기에는 index.markdown 파일이 있고,  
 index.html 파일은 없을 겁니다.
 
+### jekyll build
 다음은 Build 섹션입니다.
 
 ![img](../assets/images/2025-08-13-step-by-step-1/img-40.png)
