@@ -1,5 +1,0 @@
----
-layout: single
-title: "Hello World"
----
-hello world
