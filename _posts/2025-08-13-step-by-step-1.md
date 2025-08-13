@@ -31,13 +31,14 @@ toc_sticky: true
 
 터미널에서 위의 명령을 차례로 실행해 보겠습니다.
 
-
+### gem install bundler jekyll
 먼저 gem install bundler jekyll 명령을 실행하겠습니다.
 
 ![img](../assets/images/2025-08-13-step-by-step-1/img-2.png)
 
 이 명령은 번들러 젬과 제컬 젬을 사용할 준비를 해달라고 루비젬에게 요청하는 명령입니다.  
 
+### jekyll new my-awesome-site
 두번째 명령 jekyll new my-awesome-site 명령을 실행하겠습니다.
 
 
@@ -71,7 +72,7 @@ toc_sticky: true
 
 
 
-
+### bundle exec jekyll serve
 계속해서 다음 bundle exec jekyll serve 명령을 실행하겠습니다.
 
 
