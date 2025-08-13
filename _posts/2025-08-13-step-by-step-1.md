@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 제컬 Step by Step Tutorial 따라하기
+title: "제컬 Step by Step Tutorial 따라하기"
 author_profile: false
 toc: true
 toc_label: "1. Setup"

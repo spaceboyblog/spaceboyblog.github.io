@@ -1,5 +1,5 @@
 ---
-title: 제컬 테마 바꾸기
+title: "제컬 테마 바꾸기"
 layout: single
 author_profile: false
 toc: true
