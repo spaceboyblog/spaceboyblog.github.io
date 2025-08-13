@@ -468,6 +468,7 @@ Gemfile의 버전을 사용하라고
 다음은 Create a site 섹션입니다.
 
 ![img](../assets/images/2025-08-13-step-by-step-1/img-39.png)
+### index.html
 
 이 부분은 index.html 파일을 위와 같이 만들어 보시기 바랍니다.  
 myblog나 my-awesome-site를 만들었다면,  
