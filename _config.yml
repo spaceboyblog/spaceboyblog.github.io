@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "S.Y Chung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "호기심 많은 사상가이자 심야 작가, 평생 학습자인 저는 대한민국 대구에 거주하고 있습니다. 이 블로그는 제가 아이디어를 탐구하고, 이야기를 나누고, 우리를 형성하는 일상적인 순간들을 되돌아보는 인터넷의 한 코너입니다. 개인적인 성장에 대한 깊이 있는 탐구, 문화에 대한 생각, 또는 그저 좋은 구시대적인 불평이든, 저 자신과 여러분과 연결하기 위해 글을 씁니다."
+  bio              : "이 블로그는 제가 Github Pages를 하나씩 배우는 과정을 여러분들과 공유하는 인터넷의 한 코너입니다. 마크다운, 테마, Jekyll 등에 대한 작은 내용들을 블로그에 담아, 저 자신과 여러분과 연결하기 위해 글을 씁니다."
   location         : "Somewhere"
   email            :
   links:
