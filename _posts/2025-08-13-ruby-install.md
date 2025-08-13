@@ -1,5 +1,5 @@
 ---
-layout: single
+title: Ruby 설치하기
 author_profile: false
 toc: true
 toc_label: "루비 설치 하기"
