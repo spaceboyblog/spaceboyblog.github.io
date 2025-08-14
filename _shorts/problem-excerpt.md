@@ -1,6 +1,8 @@
 ---
 title: problem excerpt
 layout: single
+excerpt: '_config.yml의 디폴트는 excerpt_separator: "\n\n"'
+
 ---
 로컬에서
 

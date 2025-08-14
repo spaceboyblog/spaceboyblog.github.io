@@ -1,6 +1,8 @@
 ---
 layout: single
 title: 디폴트 excerpt 발췌, 인용
+excerpt: '_config.yml의 디폴트는 excerpt_separator: "\n\n"'
+
 ---
 _config.yml의 디폴트는 excerpt_separator: "\n\n"
 
