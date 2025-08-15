@@ -2,6 +2,14 @@
 main:
   - title: "Shorts"
     url: /shorts/
+  - title: archive
+    sublinks:
+      - title: By Tag
+        url: /tags/
+      - title: By Category
+        url: /categories/
+      - title: By year
+        url: /year-archive/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
